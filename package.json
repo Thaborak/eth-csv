@@ -1,0 +1,9 @@
+{
+    "name": "eth-cvs",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "websocket": "^1.0.25"
+    }
+}

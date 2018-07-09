@@ -1,0 +1,11 @@
+{
+    "type": "subscribe",
+    "channels": [
+        {
+            "name": "ticker",
+            "product_ids": [
+                "ETH-USD"
+            ]
+        }
+    ]
+}
