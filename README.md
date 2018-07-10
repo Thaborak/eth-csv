@@ -1,5 +1,6 @@
 # eth-csv
 
 ## Instructions
-  -npm i
-  -npm start
+-npm install
+
+-npm start
